@@ -1,3 +1,5 @@
+ #A filtering application which uses the convolving filters of a convolutional neural network to perform filters on an image.
+ 
  ## See [live version](http://edge-detect.herokuapp.com/)
  ## Import required modules
 
